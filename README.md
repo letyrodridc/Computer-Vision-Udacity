@@ -6,3 +6,5 @@ This repository holds all my project submitted to the Udacity Computer Vision Na
 Project 1 - Facial Keypoints Recognition
 
 Project 3 - SLAM Implementation
+
+July 2018
