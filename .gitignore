@@ -1,2 +1,4 @@
 P2_Image_Captioning-Project-master/models
 P2_Image_Captioning-Project-master/submission*
+*__pycache__*
+*.ipynb_checkpoints*
